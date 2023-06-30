@@ -1,5 +1,7 @@
 # Astro Netlify Repro
 
+GH Issue: https://github.com/withastro/astro/issues/7540
+
 ## Versions
 Astro 2.7.2
 Netlify 2.3.0
