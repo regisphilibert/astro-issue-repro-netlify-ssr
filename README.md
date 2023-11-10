@@ -3,8 +3,8 @@
 GH Issue: https://github.com/withastro/astro/issues/7540
 
 ## Versions
-Astro 2.7.2
-Netlify 2.3.0
+Astro 3.5.0
+Netlify 3.0.4
 
 ## Description
 SSR routes systematically returns 404 on Netlify when a rest parameter is used at the root of the pages directory.
